@@ -251,8 +251,8 @@ HERO = {
 
 WHY_MZFOOD = [
     {"icon": "home", "title": {"ru": "Знакомый вкус вдали от дома", "en": "A familiar taste far from home", "ar": "طعم مألوف بعيدًا عن البيت"},
-     "text": {"ru": "Борщ, плов, хинкали, лагман — блюда, к которым вы привыкли.", "en": "Borscht, plov, khinkali, lagman — the dishes you already know.", "ar": "بورش، بلوف، خينكالي، لغمان — أطباق أنت متعود عليها."}},
-    {"icon": "chef", "title": {"ru": "Готовим в Мекке", "en": "Cooked fresh in Makkah", "ar": "نطبخ في مكة"},
+          "text": {"ru": "Борщ, плов, хингалш, лагман — блюда, к которым вы привыкли.", "en": "Borscht, plov, khingalsh, lagman — the dishes you already know.", "ar": "بورش، بلوف، خينغالش، لغمان — أطباق أنت متعود عليها."}},
+    "icon": "chef", "title": {"ru": "Готовим в Мекке", "en": "Cooked fresh in Makkah", "ar": "نطبخ في مكة"},
      "text": {"ru": "Halal-еда, приготовленная на месте, а не разогретые полуфабрикаты.", "en": "Halal food prepared here, not reheated ready-meals.", "ar": "أكل حلال يُحضّر في المكان، مش أكل جاهز مسخّن."}},
     {"icon": "truck", "title": {"ru": "Доставка", "en": "Delivery", "ar": "توصيل"},
      "text": {"ru": "По Мекке и в отели — заказ принимаем через WhatsApp.", "en": "Across Makkah and to hotels — order directly on WhatsApp.", "ar": "لكل مكة وللفنادق — الطلب مباشرة عبر واتساب."}},
